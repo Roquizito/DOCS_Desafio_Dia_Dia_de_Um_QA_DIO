@@ -46,5 +46,5 @@ A documentação oficial foi compilada em um único arquivo PDF unificado, dispo
 ## 🚀 Como Visualizar os Documentos
 
 Para ler a documentação completa com a formatação padronizada:
-1. Navegue até o arquivo [Desafio_QA_SwagLabs_Roque-v2.pdf](./Desafio_QA_SwagLabs_Roque-v2.pdf) no topo da página.
+1. Navegue até o arquivo [Desafio_QA_SwagLabs_Roque.pdf](./Desafio_QA_SwagLabs_Roque.pdf) no topo da página.
 2. Clique no botão **Download** para baixar e visualizar em seu leitor de PDF local.
